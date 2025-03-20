@@ -1,0 +1,472 @@
+{
+  "books": [
+    {
+      "id": "1",
+      "title": "Đắc nhân tâm",
+      "author": "Dale Carnegie",
+      "description": "Đắc nhân tâm của Dale Carnegie là quyển sách của mọi thời đại và một hiện tượng đáng kinh ngạc trong ngành xuất bản Hoa Kỳ. Trong suốt nhiều thập kỷ tiếp theo và cho đến tận bây giờ, tác phẩm này vẫn chiếm vị trí số một trong danh mục sách bán chạy nhất và trở thành một sự kiện có một không hai trong lịch sử ngành xuất bản thế giới và được đánh giá là một quyển sách có tầm ảnh hưởng nhất mọi thời đại.",
+      "image": "https://cdn1.fahasa.com/media/catalog/product/d/n/dntttttuntitled.jpg",
+      "old-price": 100000,
+      "new-price": 75000,
+      "discountPercent": 25,
+      "category": "Tâm lý",
+      "rating": "5",
+      "rating_count": 1,
+      "sold": 1,
+      "stock": 11
+    },
+    {
+      "id": "2",
+      "title": "Thao Túng Tâm Lý",
+      "author": "Shannon Thomas, LCSW",
+      "description": "Thao Túng Tâm Lý - Nhận Diện, Thức Tỉnh Và Chữa Lành Những Tổn Thương Tiềm Ẩn",
+      "image": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936066692298.jpg",
+      "old-price": null,
+      "new-price": 120000,
+      "discountPercent": 0,
+      "category": "Tâm lý",
+      "rating": "5.0",
+      "rating_count": 1,
+      "sold": 1,
+      "stock": 6
+    },
+    {
+      "id": "3",
+      "title": "Người bán hàng vĩ đại nhất thế giới",
+      "author": "Og Mandino",
+      "description": "Cuốn sách trình bày những nguyên tắc của thành công trong bán hàng.",
+      "image": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_47973.jpg",
+      "old-price": 150000,
+      "new-price": 120000,
+      "discountPercent": 20,
+      "category": "Kinh tế",
+      "rating": "",
+      "rating_count": 0,
+      "sold": 0,
+      "stock": 8
+    },
+    {
+      "id": "4",
+      "title": "Bí mật tư duy triệu phú",
+      "author": "T. Harv Eker",
+      "description": "Cuốn sách khám phá mối liên hệ giữa tư duy và thành công tài chính.",
+      "image": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_188995_1_1.jpg",
+      "old-price": null,
+      "new-price": 300000,
+      "discountPercent": 0,
+      "category": "Kinh tế",
+      "rating": "",
+      "rating_count": 0,
+      "sold": 1,
+      "stock": 11
+    },
+    {
+      "id": "6",
+      "title": "Thế giới phẳng",
+      "author": "Thomas L. Friedman",
+      "description": "Cuốn sách phân tích sự thay đổi trong nền kinh tế toàn cầu.",
+      "image": "https://cdn1.fahasa.com/media/catalog/product/t/h/the-gioi-phang.jpg",
+      "old-price": 200000,
+      "new-price": 160000,
+      "discountPercent": 20,
+      "category": "Kinh tế",
+      "rating": "",
+      "rating_count": 0,
+      "sold": 0,
+      "stock": 7
+    },
+    {
+      "id": "7",
+      "title": "Tư duy nhanh và chậm",
+      "author": "Daniel Kahneman",
+      "description": "Cuốn sách khám phá cách chúng ta suy nghĩ và ra quyết định.",
+      "image": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935251417524_1.jpg",
+      "old-price": 300000,
+      "new-price": 270000,
+      "discountPercent": 10,
+      "category": "Phát triển bản thân",
+      "rating": "",
+      "rating_count": 0,
+      "sold": 0,
+      "stock": 4
+    },
+    {
+      "id": "8",
+      "title": "Nhà giả kim",
+      "author": "Paulo Coelho",
+      "description": "Một câu chuyện về hành trình theo đuổi giấc mơ.",
+      "image": "https://cdn1.fahasa.com/media/catalog/product/n/h/nha-gia-kim-b.jpg",
+      "old-price": 180000,
+      "new-price": 144000,
+      "discountPercent": 20,
+      "category": "Tiểu thuyết",
+      "rating": "",
+      "rating_count": 0,
+      "sold": 0,
+      "stock": 10
+    },
+    {
+      "id": "9",
+      "title": "Tôi tài giỏi, bạn cũng thế!",
+      "author": "Adam Khoo",
+      "description": "Cuốn sách giúp bạn phát triển kỹ năng bản thân.",
+      "image": "https://thuviensach.vn/img/news/2022/09/larger/390-toi-tai-gioi-ban-cung-the-1.jpg?v=1092",
+      "old-price": 140000,
+      "new-price": 105000,
+      "discountPercent": 25,
+      "category": "Đời sống",
+      "rating": "",
+      "rating_count": 0,
+      "sold": 0,
+      "stock": 11
+    },
+    {
+      "id": "11",
+      "title": "Chìa khóa thành công",
+      "author": "Napoleon Hill",
+      "description": "Phân tích những nguyên tắc dẫn đến thành công.",
+      "image": "https://thuviensach.vn/img/news/2022/08/larger/680-chia-khoa-thanh-cong-1.jpg?v=6117",
+      "old-price": null,
+      "new-price": 240000,
+      "discountPercent": 0,
+      "category": "Kinh tế",
+      "rating": "",
+      "rating_count": 0,
+      "sold": 0,
+      "stock": 9
+    },
+    {
+      "id": "13",
+      "title": "Con Đường Chẳng Mấy Ai Đi",
+      "author": "M. Scott Peck",
+      "description": "Với dòng mở đầu bất hủ của quyển sách, 'Cuộc đời này rất khó sống', thể hiện quan điểm hành trình phát triển tinh thần là một chặng đường dài và gian nan, Tiến sĩ Peck thể hiện sự đồng cảm, nhẹ nhàng dẫn dắt độc giả vượt qua quá trình khó khăn đó, để thay đổi hướng tới tầm mức thấu hiểu bản thân sâu sắc hơn.",
+      "image": "https://cdn1.fahasa.com/media/catalog/product/9/7/9786044009674.jpg",
+      "old-price": null,
+      "new-price": 180000,
+      "discountPercent": 0,
+      "category": "Đời sống",
+      "rating": "",
+      "rating_count": 0,
+      "sold": 0,
+      "stock": 8
+    },
+    {
+      "id": "14",
+      "title": "Đừng bao giờ từ bỏ ước mơ",
+      "author": "Nhiều tác giả",
+      "description": "“Nếu không cố gắng bạn sẽ thất bại hoàn toàn. Khi dám làm điều bạn thích, bạn sẽ có cơ hội để thành công.” Đó là chân lý đơn giản mà cuốn sách tuyệt đẹp này sẽ mang đến cho bạn",
+      "image": "https://nhasachmienphi.com/wp-content/uploads/dung_bao_gio_tu_bo_uoc_mo.jpg",
+      "old-price": null,
+      "new-price": 150000,
+      "discountPercent": 0,
+      "category": "Đời sống",
+      "rating": "",
+      "rating_count": 0,
+      "sold": 1,
+      "stock": 10
+    },
+    {
+      "id": "3d52",
+      "title": "Tâm Lý Học Về Tiền",
+      "author": "Morgan Housel",
+      "description": "Tiền bạc có ở khắp mọi nơi, nó ảnh hưởng đến tất cả chúng ta, và khiến phần lớn chúng ta bối rối. Mọi người nghĩ về nó theo những cách hơi khác nhau một chút. Nó mang lại những bài học có thể được áp dụng tới rất nhiều lĩnh vực trong cuộc sống, như rủi ro, sự tự tin, và hạnh phúc. Rất ít chủ đề cung cấp một lăng kính phóng to đầy quyền lực giúp giải thích vì sao mọi người lại hành xử theo cách họ làm hơn là về tiền bạc. Đó mới là một trong những chương trình hoành tráng nhất trên thế giới.",
+      "discountPercent": 10,
+      "image": "https://nhasachbaoanh.com/wp-content/uploads/2022/06/tam-li-hoc-ve-tien.jpg",
+      "new-price": 135000,
+      "stock": 15,
+      "category": "Tâm lý",
+      "rating": "",
+      "rating_count": 0,
+      "sold": 0,
+      "old-price": 150000
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "username": "user1",
+      "email": "user1@example.com",
+      "password": "1234567",
+      "name": "User 2",
+      "phone": "0987654321",
+      "address": "123 Hà Nội",
+      "role": "USER"
+    },
+    {
+      "id": "2",
+      "username": "admin1",
+      "email": "admin1@example.com",
+      "password": "123456",
+      "name": "Admin 1",
+      "phone": "0987654321",
+      "address": "456 Hà Nội",
+      "role": "ADMIN"
+    },
+    {
+      "id": "db6e",
+      "email": "user3@example.com",
+      "password": "123456",
+      "phone": "0998726411",
+      "address": "Hà Nội",
+      "name": "User 3",
+      "username": "user2",
+      "role": "USER"
+    },
+    {
+      "id": "0f09",
+      "username": "user4",
+      "email": "user4@example.com",
+      "password": "123456",
+      "phone": "0983746637",
+      "address": "222 Hà Nội",
+      "name": "User 4",
+      "role": "USER"
+    }
+  ],
+  "carts": [
+    {
+      "userId": "1",
+      "items": [
+        {
+          "id": "7",
+          "title": "Tư duy nhanh và chậm",
+          "author": "Daniel Kahneman",
+          "description": "Cuốn sách khám phá cách chúng ta suy nghĩ và ra quyết định.",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/8/9/8935251417524_1.jpg",
+          "old-price": 300000,
+          "new-price": 270000,
+          "discountPercent": 10,
+          "category": "Phát triển bản thân",
+          "rating": "",
+          "rating_count": 0,
+          "sold": 0,
+          "stock": 4,
+          "quantity": 1
+        }
+      ],
+      "id": "1"
+    },
+    {
+      "id": "64e7",
+      "userId": "db6e",
+      "items": [
+        {
+          "id": "4",
+          "title": "Bí mật tư duy triệu phú",
+          "author": "T. Harv Eker",
+          "description": "Cuốn sách khám phá mối liên hệ giữa tư duy và thành công tài chính.",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_188995_1_1.jpg",
+          "old-price": null,
+          "new-price": 300000,
+          "discountPercent": 0,
+          "category": "Kinh tế",
+          "rating": "",
+          "rating_count": 0,
+          "sold": 0,
+          "stock": 12,
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "title": "Thao Túng Tâm Lý",
+          "author": "Shannon Thomas, LCSW",
+          "description": "Thao Túng Tâm Lý - Nhận Diện, Thức Tỉnh Và Chữa Lành Những Tổn Thương Tiềm Ẩn",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936066692298.jpg",
+          "old-price": null,
+          "new-price": 120000,
+          "discountPercent": 0,
+          "category": "Tâm lý",
+          "rating": "",
+          "rating_count": 0,
+          "sold": 0,
+          "stock": 6,
+          "quantity": 1
+        }
+      ]
+    }
+  ],
+  "wishlists": [
+    {
+      "id": "1",
+      "userId": 1,
+      "items": [
+        {
+          "id": "2",
+          "title": "Thao Túng Tâm Lý",
+          "author": "Shannon Thomas, LCSW",
+          "description": "Thao Túng Tâm Lý - Nhận Diện, Thức Tỉnh Và Chữa Lành Những Tổn Thương Tiềm Ẩn",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936066692298.jpg",
+          "old-price": null,
+          "new-price": 120000,
+          "discountPercent": 0,
+          "category": "Tâm lý",
+          "rating_count": 0,
+          "sold": 1
+        },
+        {
+          "id": "1",
+          "title": "Đắc nhân tâm",
+          "author": "Dale Carnegie",
+          "description": "Đắc nhân tâm của Dale Carnegie là quyển sách của mọi thời đại và một hiện tượng đáng kinh ngạc trong ngành xuất bản Hoa Kỳ. Trong suốt nhiều thập kỷ tiếp theo và cho đến tận bây giờ, tác phẩm này vẫn chiếm vị trí số một trong danh mục sách bán chạy nhất và trở thành một sự kiện có một không hai trong lịch sử ngành xuất bản thế giới và được đánh giá là một quyển sách có tầm ảnh hưởng nhất mọi thời đại.",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/d/n/dntttttuntitled.jpg",
+          "old-price": 100000,
+          "new-price": 75000,
+          "discountPercent": 25,
+          "category": "Tâm lý",
+          "rating": "5",
+          "rating_count": 1,
+          "sold": 1
+        }
+      ]
+    },
+    {
+      "id": "ecd1",
+      "userId": "db6e",
+      "items": [
+        {
+          "wishlistItems": [
+            {
+              "id": "3",
+              "title": "Người bán hàng vĩ đại nhất thế giới",
+              "author": "Og Mandino",
+              "description": "Cuốn sách trình bày những nguyên tắc của thành công trong bán hàng.",
+              "image": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_47973.jpg",
+              "old-price": 150000,
+              "new-price": 120000,
+              "discountPercent": 20,
+              "category": "Kinh tế",
+              "rating": "",
+              "rating_count": 0,
+              "sold": 0,
+              "stock": 8
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "reviews": [
+    {
+      "id": "1",
+      "bookId": 1,
+      "bookTitle": "Đắc nhân tâm",
+      "userId": 1,
+      "user_name": "User 1",
+      "rating": 5,
+      "comment": "Sách hay",
+      "date": "2025-02-15T08:30:00Z"
+    },
+    {
+      "id": "3633",
+      "book_id": "2",
+      "bookTitle": "Thao Túng Tâm Lý",
+      "user_id": "db6e",
+      "user_name": "User 3",
+      "rating": 5,
+      "comment": "Sách rất hay",
+      "date": "2025-02-19T11:59:03.504Z"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "user": {
+        "id": "1",
+        "email": "user1@example.com",
+        "name": "User 1",
+        "phone": "0987654321",
+        "address": "123 Hà Nội"
+      },
+      "items": [
+        {
+          "id": "14",
+          "title": "Đừng bao giờ từ bỏ ước mơ",
+          "author": "Nhiều tác giả",
+          "description": "“Nếu không cố gắng bạn sẽ thất bại hoàn toàn. Khi dám làm điều bạn thích, bạn sẽ có cơ hội để thành công.” Đó là chân lý đơn giản mà cuốn sách tuyệt đẹp này sẽ mang đến cho bạn",
+          "image": "https://nhasachmienphi.com/wp-content/uploads/dung_bao_gio_tu_bo_uoc_mo.jpg",
+          "old-price": null,
+          "new-price": 150000,
+          "discountPercent": 0,
+          "category": "Đời sống",
+          "rating_count": 0,
+          "sold": 0,
+          "stock": 11,
+          "quantity": 1
+        },
+        {
+          "id": "1",
+          "title": "Đắc nhân tâm",
+          "author": "Dale Carnegie",
+          "description": "Đắc nhân tâm của Dale Carnegie là quyển sách của mọi thời đại và một hiện tượng đáng kinh ngạc trong ngành xuất bản Hoa Kỳ. Trong suốt nhiều thập kỷ tiếp theo và cho đến tận bây giờ, tác phẩm này vẫn chiếm vị trí số một trong danh mục sách bán chạy nhất và trở thành một sự kiện có một không hai trong lịch sử ngành xuất bản thế giới và được đánh giá là một quyển sách có tầm ảnh hưởng nhất mọi thời đại.",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/d/n/dntttttuntitled.jpg",
+          "old-price": 100000,
+          "new-price": 75000,
+          "discountPercent": 25,
+          "category": "Tâm lý",
+          "rating_count": 0,
+          "sold": 0,
+          "stock": 11,
+          "quantity": 1
+        }
+      ],
+      "amount": 2,
+      "total": 225000,
+      "orderAddress": "123 Hà Nội",
+      "date": "2025-02-20T08:30:00Z",
+      "status": "completed",
+      "paymentMethod": "COD",
+      "paymentStatus": "paid"
+    },
+    {
+      "id": "a0dc",
+      "items": [
+        {
+          "id": "4",
+          "title": "Bí mật tư duy triệu phú",
+          "author": "T. Harv Eker",
+          "description": "Cuốn sách khám phá mối liên hệ giữa tư duy và thành công tài chính.",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_188995_1_1.jpg",
+          "old-price": null,
+          "new-price": 300000,
+          "discountPercent": 0,
+          "category": "Kinh tế",
+          "rating": "",
+          "rating_count": 0,
+          "sold": 0,
+          "stock": 12,
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "title": "Thao Túng Tâm Lý",
+          "author": "Shannon Thomas, LCSW",
+          "description": "Thao Túng Tâm Lý - Nhận Diện, Thức Tỉnh Và Chữa Lành Những Tổn Thương Tiềm Ẩn",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936066692298.jpg",
+          "old-price": null,
+          "new-price": 120000,
+          "discountPercent": 0,
+          "category": "Tâm lý",
+          "rating": "5.0",
+          "rating_count": 1,
+          "sold": 0,
+          "stock": 7,
+          "quantity": 1
+        }
+      ],
+      "user": {
+        "id": "1",
+        "email": "user1@example.com",
+        "name": "User 2",
+        "phone": "0987654321",
+        "address": "123 Hà Nội"
+      },
+      "amount": 2,
+      "total": 420000,
+      "orderAddress": "123 Hà Nội",
+      "date": "2025-02-20T10:17:01.581Z",
+      "status": "shipping",
+      "paymentMethod": "internetBanking",
+      "paymentStatus": "paid"
+    }
+  ]
+}
