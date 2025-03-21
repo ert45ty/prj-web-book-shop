@@ -247,42 +247,9 @@
       "id": "1"
     },
     {
-      "id": "64e7",
       "userId": "db6e",
-      "items": [
-        {
-          "id": "4",
-          "title": "Bí mật tư duy triệu phú",
-          "author": "T. Harv Eker",
-          "description": "Cuốn sách khám phá mối liên hệ giữa tư duy và thành công tài chính.",
-          "image": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_188995_1_1.jpg",
-          "old-price": null,
-          "new-price": 300000,
-          "discountPercent": 0,
-          "category": "Kinh tế",
-          "rating": "",
-          "rating_count": 0,
-          "sold": 0,
-          "stock": 12,
-          "quantity": 1
-        },
-        {
-          "id": "2",
-          "title": "Thao Túng Tâm Lý",
-          "author": "Shannon Thomas, LCSW",
-          "description": "Thao Túng Tâm Lý - Nhận Diện, Thức Tỉnh Và Chữa Lành Những Tổn Thương Tiềm Ẩn",
-          "image": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936066692298.jpg",
-          "old-price": null,
-          "new-price": 120000,
-          "discountPercent": 0,
-          "category": "Tâm lý",
-          "rating": "",
-          "rating_count": 0,
-          "sold": 0,
-          "stock": 6,
-          "quantity": 1
-        }
-      ]
+      "items": [],
+      "id": "64e7"
     }
   ],
   "wishlists": [
@@ -467,6 +434,73 @@
       "status": "shipping",
       "paymentMethod": "internetBanking",
       "paymentStatus": "paid"
+    },
+    {
+      "id": "33f5",
+      "items": [
+        {
+          "id": "4",
+          "title": "Bí mật tư duy triệu phú",
+          "author": "T. Harv Eker",
+          "description": "Cuốn sách khám phá mối liên hệ giữa tư duy và thành công tài chính.",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_188995_1_1.jpg",
+          "old-price": null,
+          "new-price": 300000,
+          "discountPercent": 0,
+          "category": "Kinh tế",
+          "rating": "",
+          "rating_count": 0,
+          "sold": 0,
+          "stock": 12,
+          "quantity": 1
+        },
+        {
+          "id": "2",
+          "title": "Thao Túng Tâm Lý",
+          "author": "Shannon Thomas, LCSW",
+          "description": "Thao Túng Tâm Lý - Nhận Diện, Thức Tỉnh Và Chữa Lành Những Tổn Thương Tiềm Ẩn",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/8/9/8936066692298.jpg",
+          "old-price": null,
+          "new-price": 120000,
+          "discountPercent": 0,
+          "category": "Tâm lý",
+          "rating": "",
+          "rating_count": 0,
+          "sold": 0,
+          "stock": 6,
+          "quantity": 1
+        },
+        {
+          "id": "3",
+          "title": "Người bán hàng vĩ đại nhất thế giới",
+          "author": "Og Mandino",
+          "description": "Cuốn sách trình bày những nguyên tắc của thành công trong bán hàng.",
+          "image": "https://cdn1.fahasa.com/media/catalog/product/i/m/image_195509_1_47973.jpg",
+          "old-price": 150000,
+          "new-price": 120000,
+          "discountPercent": 20,
+          "category": "Kinh tế",
+          "rating": "",
+          "rating_count": 0,
+          "sold": 0,
+          "stock": 8,
+          "quantity": 1
+        }
+      ],
+      "user": {
+        "id": "db6e",
+        "email": "user3@example.com",
+        "name": "User 3",
+        "phone": "0987654321",
+        "address": "Hà Nội"
+      },
+      "amount": 3,
+      "total": 540000,
+      "orderAddress": "123 Hà Nội",
+      "date": "2025-03-21T02:10:26.555Z",
+      "status": "cancelled",
+      "paymentMethod": "internetBanking",
+      "paymentStatus": "cancelled"
     }
   ]
 }

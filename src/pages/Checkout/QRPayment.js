@@ -226,7 +226,7 @@ const QRPayment = () => {
                         <td>{item.title}</td>
                         <td className="text-center">{item.quantity}</td>
                         <td className="text-end">
-                          {item.price * item.quantity} VND
+                          {item["new-price"] * item.quantity} VND
                         </td>
                       </tr>
                     ))}
